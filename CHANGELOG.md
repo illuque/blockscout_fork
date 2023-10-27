@@ -4,6 +4,8 @@
 
 ### Features
 
+- [#8702](https://github.com/blockscout/blockscout/pull/8702) - Add OP withdrawal status to transaction page in API
+
 ### Fixes
 
 - [#7776](https://github.com/blockscout/blockscout/pull/7776) - Fix transactions ordering in Indexer.Fetcher.OptimismTxnBatch
