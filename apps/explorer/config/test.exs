@@ -51,7 +51,8 @@ for repo <- [
       Explorer.Repo.Shibarium,
       Explorer.Repo.Suave,
       Explorer.Repo.BridgedTokens,
-      Explorer.Repo.Filecoin
+      Explorer.Repo.Filecoin,
+      Explorer.Repo.Stability
     ] do
   config :explorer, repo,
     database: "explorer_test",
@@ -83,3 +84,4 @@ config :explorer, Explorer.ExchangeRates.Source.TransactionAndLog,
 
 config :explorer, Explorer.Chain.Fetcher.CheckBytecodeMatchingOnDemand, enabled: false
 config :explorer, Explorer.Chain.Fetcher.FetchValidatorInfoOnDemand, enabled: false
+config :explorer, Explorer.Tags.AddressTag.Cataloger, enabled: false

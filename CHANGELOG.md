@@ -4,6 +4,8 @@
 
 ### Features
 
+- [#9390](https://github.com/blockscout/blockscout/pull/9390) - Add stability validators
+
 ### Fixes
 
 ### Chore
