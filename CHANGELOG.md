@@ -4,6 +4,8 @@
 
 ### Features
 
+- [#9473](https://github.com/blockscout/blockscout/pull/9473) - Add user_op interpretation
+
 ### Fixes
 
 ### Chore
