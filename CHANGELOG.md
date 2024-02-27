@@ -4,6 +4,8 @@
 
 ### Features
 
+- [#9483](https://github.com/blockscout/blockscout/pull/9483) - Add secondary coin and transaction stats
+
 ### Fixes
 
 ### Chore
