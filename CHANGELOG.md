@@ -4,6 +4,8 @@
 
 ### Features
 
+- [#9490](https://github.com/blockscout/blockscout/pull/9490) - Add blob transaction counter and filter in block view
+
 ### Fixes
 
 ### Chore
