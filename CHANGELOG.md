@@ -4,6 +4,8 @@
 
 ### Features
 
+- [#9486](https://github.com/blockscout/blockscout/pull/9486) - Massive blocks fetcher
+
 ### Fixes
 
 ### Chore
