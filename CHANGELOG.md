@@ -8,6 +8,8 @@
 
 ### Chore
 
+- [#9506](https://github.com/blockscout/blockscout/pull/9506) - API v1 bridgedtokenlist endpoint
+
 ## 6.2.2
 
 ### Features
