@@ -6,6 +6,8 @@
 
 ### Fixes
 
+- [#9514](https://github.com/blockscout/blockscout/pull/9513) Fix missing `0x` prefix for `blockNumber`, `logIndex`, `transactionIndex` and remove `transactionLogIndex` in `eth_getLogs` response. 
+
 ### Chore
 
 ## 6.2.2
