@@ -4,6 +4,8 @@
 
 ### Features
 
+- [#9511](https://github.com/blockscout/blockscout/pull/9511) - Separate errors by type in EndpointAvailabilityObserver
+
 ### Fixes
 
 ### Chore
