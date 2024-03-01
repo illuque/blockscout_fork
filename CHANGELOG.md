@@ -6,6 +6,8 @@
 
 ### Fixes
 
+- [#9510](https://github.com/blockscout/blockscout/pull/9510) - Fix WS false 0 token balances
+
 ### Chore
 
 ## 6.2.2

@@ -75,9 +75,9 @@ defmodule EthereumJSONRPC.Contract do
           result
       end
     end)
-  rescue
-    error ->
-      Enum.map(requests, fn _ -> format_error(error) end)
+    rescue
+      error ->
+        Enum.map(requests, fn _ -> format_error(error) end)
   end
 
   defp format_args(function, args) do
